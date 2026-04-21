@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="google-search-results" />
+          <option value="pickle-mixin" />
+          <option value="python-whois" />
+          <option value="dnspython" />
+          <option value="beautifulsoup4" />
+          <option value="tensorflow" />
+          <option value="openai" />
+          <option value="keras" />
+          <option value="requests" />
+          <option value="itemadapter" />
+          <option value="crochet" />
+          <option value="nltk" />
+          <option value="scikit-learn" />
+          <option value="ollama" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
